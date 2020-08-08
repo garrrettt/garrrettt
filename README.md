@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Amber](https://github.com/TheEarlyNerd/amber), a continuation of [Off the Map](https://github.com/garrrettt/Off-The-Map) focused specifically on allowing historical groups to create walking tours.
 - 🌱 Right now, I’m learning React and its ecosystem including Storybook and Typescript.
-- 📫 Reach me at: smith.garr{ at }northeastern{ dot }ed
+- 📫 Reach me at: smith.garr{ at }northeastern{ dot }edu
 - ⚡ Fun fact: I'm working through [Draw a Box](https://drawabox.com/), a fantastic free art fundamentals course I found. I could only draw stick people before, and I'm really enjoying the systematic approach this course takes.
