@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Amber](https://github.com/TheEarlyNerd/amber), a continuation of [Off the Map](https://github.com/garrrettt/Off-The-Map) focused specifically on allowing historical groups to create walking tours.
-- 🌱 Right now, I’m learning React and its ecosystem including Storybook and Typescript.
+- 🔭 I'm currently applying to full-time coops and internships for the second half of 2021. Feel free to check out [my portfolio site](https://garrrettt.github.io) for more info about my skills and projects.
+- 🌱 Right now, I’m developing my skills in the React ecosystem by messing around with Storybook and Typescript.
 - 📫 Reach me at: smith.garr@northeastern.edu
-- ⚡ Fun fact: I'm working through [Draw a Box](https://drawabox.com/), a fantastic free art fundamentals course I found. I could only draw stick people before, and I'm really enjoying the systematic approach this course takes.
+- ⚡ Fun fact: I'm learning guitar right now and having a blast!
