@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently applying to full-time coops and internships for the second half of 2021. Feel free to check out [my portfolio site](https://garrrettt.github.io) for more info about my skills and projects.
-- 🌱 Right now, I’m developing my skills in the React ecosystem by messing around with Storybook and Typescript.
+- 🔭 I'm currently applying to full-time coops and internships for the first half of 2022. Feel free to check out [my portfolio site](https://garrrettt.github.io) for more info about my skills and projects.
+- 🌱 Right now, I'm excited about EdTech and Metaverse technology!
 - 📫 Reach me at: smith.garr@northeastern.edu
 - ⚡ Fun fact: I'm learning guitar right now and having a blast!
