@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently applying to full-time coops and internships for the first half of 2022. Feel free to check out [my portfolio site](https://garrrettt.github.io) for more info about my skills and projects.
-- 🌱 Right now, I'm excited about EdTech and Metaverse technology!
+- 🔭 I'm currently applying to full-time jobs! Feel free to check out [my portfolio site](https://garrrettt.github.io) for more info about my skills and projects.
+- 🌱 Right now, I'm excited about ChatGPT!
 - 📫 Reach me at: smith.garr@northeastern.edu
-- ⚡ Fun fact: I'm learning guitar right now and having a blast!
+- ⚡ Fun fact: I love playing guitar, bass, and keyboard! And I'd love to add more to that list!
