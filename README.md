@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently applying to full-time jobs! Feel free to check out [my portfolio site](https://garrrettt.github.io) for more info about my skills and projects.
-- 🌱 Right now, I'm excited about ChatGPT!
-- 📫 Reach me at: smith.garr@northeastern.edu
-- ⚡ Fun fact: I love playing guitar, bass, and keyboard! And I'd love to add more to that list!
+- 💬 Ask me about AI and entrepreneurship!
+- 🤯 GPT-4 has massively accelerated how fast I can learn - currently learning Arduino and electronics!!
+- 📫 Reach me at: garrett[dot]smit7[at]gmail.com
+- ♫ Fun fact: I love to improvise on guitar!
