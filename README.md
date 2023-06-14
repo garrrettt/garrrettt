@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about AI and entrepreneurship!
-- 🤯 GPT-4 has massively accelerated how fast I can learn - currently learning Arduino and electronics!!
+- 🤯 GPT-4 has massively accelerated how fast I can learn - starting to work with [🦜️🔗 LangChain](https://github.com/hwchase17/langchain)!!
 - 📫 Reach me at: garrett[dot]smit7[at]gmail.com
-- ♫ Fun fact: I love to improvise on guitar!
+- 🧗 Fun fact: I love climbing!
