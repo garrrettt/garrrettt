@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about AI and entrepreneurship!
-- 🤯 GPT-4 has massively accelerated how fast I can learn - starting to work with [🦜️🔗 LangChain](https://github.com/hwchase17/langchain)!!
+- 🔭 I’m currently working on agentic experiences
+- 🤯 I love keeping up with the latest developments in the LLM space
 - 📫 Reach me at: garrett[dot]smit7[at]gmail.com
-- 🧗 Fun fact: I love climbing!
+- 🏐 Fun fact: I love volleyball!
